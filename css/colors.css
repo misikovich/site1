@@ -1,0 +1,19 @@
+:root {
+    --accent-color: #ffffffcc;
+}
+
+html {
+    background-color: var(--accent-color);
+}
+
+.container {
+    background-color: var(--accent-color);
+}
+
+.accent-color {
+    color: var(--accent-color);
+}
+
+.accent-bg {
+    background-color: var(--accent-color);
+}
